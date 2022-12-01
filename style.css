@@ -3,7 +3,18 @@ body {
 }
 
 main {
-    max-width: 600px;
+    max-width: 700px;
     margin: 0 auto;
     background-color: whitesmoke;
+    padding: 20px;
+}
+
+.nome {
+    font-size: 30px;
+    color: deeppink;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
